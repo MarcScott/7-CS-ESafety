@@ -106,7 +106,6 @@
 - We're going to start with a small survey, to find out how much time you spend online in comparison to your peers.
 #+begin_html
  <form>
-<div style="margin-left:auto;margin-right:auto;">
 First name:
 <input type="text" name="firstname">
 <br>
@@ -117,26 +116,25 @@ Last name:
 <input type="radio" name="sex" value="female">Female
 <br>
 House Number:
-<input type="text" name="House Number"></br>
+<input type="number" name="House Number"></br>
 Postcode:
 <input type="text" name="Postcode"></br>
 DOB:
-<input type="text" name="DOB"></br>
+<input type="datetime" name="DOB"></br>
 email:
-<input type="text" name="email"></br>
+<input type="email" name="email"></br>
 mobile phone:
 <input type="text" name="mobile"></br>
 Hours spent on YouTube per Day:
-<input type="text" name="YouTube"></br>
+<input type="number" name="YouTube"></br>
 Hours spent on SnapChat or other Messenger per Day:
-<input type="text" name="SnapChat"></br>
+<input type="number" name="SnapChat"></br>
 Hours spent on Online Games per Day:
-<input type="text" name="Games"></br>
+<input type="number" name="Games"></br>
 Hours spent doing Homework per Day:
-<input type="text" name="Homework"></br>
+<input type="number" name="Homework"></br>
 <input type="submit" value="Share online"  onclick="return confirm('Are you sure you want to send all this very private information to a completely unknown destination and therefore potentially put yourself in danger?')">
 </form>
-</div>
 #+end_html
 
 * How did you do?

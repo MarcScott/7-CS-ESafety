@@ -235,6 +235,10 @@ object {
   display: block;
   max-width: 1000px;
 }
+form {
+  margin: 0 auto;
+  width: 500px;
+}
 /* CSS for sub activities*/
 .learn h3 {
   background-image: url(icons/Learn.svg);
