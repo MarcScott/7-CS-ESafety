@@ -148,7 +148,7 @@ Hours spent doing Homework per Day:
 [[https://upload.wikimedia.org/wikipedia/commons/4/40/Child_and_Computer_08473.jpg]]
 - Did you click =Submit=? Did you read the warning message?
 - If so then you are probably not alone. We often click on buttons, fill in forms and accept terms and conditions without reading them.
-- Often we don't even think about where that information goes or what the reciever will do with it.
+- Often we don't even think about where that information goes or what the receiver will do with it.
 - This is a prime example of unsafe behaviour. You should never share personal details online.
 - There are a few simple measures you can take to ensure you stay safe.
 - Have a watch of this video
@@ -171,5 +171,5 @@ Hours spent doing Homework per Day:
 :HTML_CONTAINER_CLASS: badge
 :END:
 - You need to prepare a single A4 poster that could be displayed in a primary school classroom.
-- It should be appealing to 7-10 year olds and inform them of your five points for staying safe online.
+- It should be appealing to 7-10 year-olds and inform them of your five points for staying safe online.
 
