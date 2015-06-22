@@ -140,7 +140,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- The second method by which crackers work is to rely on Human falibility. That is the concept that we all make mistakes or stupid decisions.
+- The second method by which crackers work is to rely on Human fallibility. That is the concept that we all make mistakes or stupid decisions.
 ** Research It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
@@ -188,7 +188,7 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 - Baiting relies on people's greed.
-- A cracker will load a USB drive with malwar and then leave it somewhere, like a coffee shop or the floor of a carpark.
+- A cracker will load a USB drive with malware and then leave it somewhere, like a coffee shop or the floor of a car-park.
 - An individual that picks up the drive and plugs it into their computer will automatically have the malware loaded onto their system.
 * What is malware?
 :PROPERTIES:
@@ -202,11 +202,11 @@
 :END:
 - There are many classes of malware. Some are listed below.
   - Viruses
-  - Torjans
+  - Trojans
   - Ransomware
 - For each of the types of malware, find out what they do and how to protect yourself from them.
 ** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- You have been tasked with coming up with advice for your teachers at your school. Come up with a single (emailable) document that could be distributed to teachers to inform them of how to keep themselves protected both on and offline.
+- You have been tasked with coming up with advice for your teachers at your school. Come up with a single (email-able) document that could be distributed to teachers to inform them of how to keep themselves protected both on and offline.
