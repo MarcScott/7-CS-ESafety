@@ -104,7 +104,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
-- Have a read of the [[https://en.wikipedia.org/wiki/Hacker_%2528term%2529][Wikipedia article on what is meant by the term Hacker]]
+- Have a read of the [[https://en.wikipedia.org/wiki/Hacker_(term)][this wikipedia article]] on what is meant by the term Hacker]
 - You don't have to read the whole article, just the first few paragraphs.
 ** Learn It
 :PROPERTIES:

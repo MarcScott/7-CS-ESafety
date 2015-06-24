@@ -165,6 +165,7 @@
 #+begin_html
 <iframe src="https://embed.theguardian.com/embed/video/technology/video/2013/sep/19/terms-and-conditions-may-apply-trailer-video" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 #+end_html
+- And [[https://tosdr.org/#][this website]] provides a simplified view of the Terms & Conditions for various services.
 - Will you be paying more attention to Terms and Conditions on sites you use from now on?
 - Justify your reasons.
 
